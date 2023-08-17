@@ -1,0 +1,8 @@
+Esta es una herramienta que automatiza todo el reconocimiento en una maquina.
+
+Usa estas herramientas:
+  -Nmap
+  -Gobuster
+  -Wfuzz
+
+Tambien es necesario tener instalado python 
